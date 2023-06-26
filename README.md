@@ -14,7 +14,7 @@ finalCapstone is a application of Spacy. Spacy find similarities between words, 
 
 ## Installation
 
-To install and run My Awesome Project locally, follow these steps:
+To install and run finalCapstone locally, follow these steps:
 
 1. Clone the repository from GitHub:
 
@@ -46,7 +46,7 @@ Once you have installed finalCapstone, follow these instructions to use the appl
 6. To mark a task as complete, simply click the checkbox next to the task.
 7. You can edit or delete tasks using the corresponding buttons.
 8. Use the search bar to find specific tasks by title or description.
-9. Explore the different features of My Awesome Project and enjoy its benefits!
+9. Explore the different features of finalCapstone and enjoy its benefits!
 
 Screenshots:
 
@@ -56,7 +56,7 @@ Screenshots:
 
 ## Credits
 
-My Awesome Project was developed by the following contributors:
+finalCapstone was developed by the following contributors:
 
 - John Doe ([GitHub](https://github.com/johndoe))
 - Jane Smith ([GitHub](https://github.com/janesmith))
